@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.DS_Store
+
+# Secrets and generated files
+*.local
+.env.*
+!.env.example
+.netlify
+.idea
+*.zip
